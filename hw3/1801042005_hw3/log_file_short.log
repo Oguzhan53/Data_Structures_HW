@@ -1,0 +1,126 @@
+Nis 02, 2020 11:22:43 PM q2.Main main
+INFO: --------------- TEST READ (WITH ITERATOR) METHODS  ---------------
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Read
+INFO: Data read from "text.txt" file with using iterator
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor print_logfile
+INFO: Current list stuation : 	F,o,r,o,v,e,r,t,h,o,u,s,a,n,d,s,o,f,y,e,a,r,s,,,h,u,m,a,n,s,h,a,v,e,k,e,p,t,a,n,i,m,a,l,s,s,u,c,h,a,s,b,i,r,d,s,,,c,a,t,s,a,n,d,d,o,g,s,a,s,t,h,e,i,r,p,e,t,s,.,
+Nis 02, 2020 11:22:43 PM q2.Main main
+INFO: Working time : 5291000 ns
+Nis 02, 2020 11:22:43 PM q2.Main main
+INFO: --------------- TEST READ (WITHOUT ITERATOR) METHODS  ---------------
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Read
+INFO: Data read from "text.txt" file with using iterator
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor print_logfile
+INFO: Current list stuation : 	F,o,r,o,v,e,r,t,h,o,u,s,a,n,d,s,o,f,y,e,a,r,s,,,h,u,m,a,n,s,h,a,v,e,k,e,p,t,a,n,i,m,a,l,s,s,u,c,h,a,s,b,i,r,d,s,,,c,a,t,s,a,n,d,d,o,g,s,a,s,t,h,e,i,r,p,e,t,s,.,
+Nis 02, 2020 11:22:43 PM q2.Main main
+INFO: Working time : 1628400 ns
+Nis 02, 2020 11:22:43 PM q2.Main main
+INFO: --------------- TEST FIND (WITH ITERATOR) METHODS  ---------------
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Find
+INFO: Program searchs "years" with using iterator.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Find
+INFO: Program finds "years" ,index is 18
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Find
+INFO: Program searchs "pets" with using iterator.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Find
+INFO: Program finds "pets" ,index is 75
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Find
+INFO: Program searchs "test1" with using iterator.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Find
+WARNING: There is no "test1".
+Nis 02, 2020 11:22:43 PM q2.Main main
+INFO: Working time : 3195500 ns
+Nis 02, 2020 11:22:43 PM q2.Main main
+INFO: --------------- TEST FIND (WITHOUT ITERATOR) METHODS  ---------------
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Find_without_iter
+INFO: Program searchs "years" without using iterator.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Find_without_iter
+INFO: Program finds "years",index is 18
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Find_without_iter
+INFO: Program searchs "pets" without using iterator.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Find_without_iter
+INFO: Program finds "pets",index is 75
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Find_without_iter
+INFO: Program searchs "test1" without using iterator.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Find_without_iter
+WARNING: There is no "test1".
+Nis 02, 2020 11:22:43 PM q2.Main main
+INFO: Working time : 2655900 ns
+Nis 02, 2020 11:22:43 PM q2.Main main
+INFO: --------------- TEST ADD (WITH ITERATOR) METHODS  ---------------
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Add
+INFO: "vocabluary" element added to list with using iterator at 1 index.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor print_logfile
+INFO: Current list stuation : 	F,v,o,c,a,b,l,u,a,r,y,o,r,o,v,e,r,t,h,o,u,s,a,n,d,s,o,f,y,e,a,r,s,,,h,u,m,a,n,s,h,a,v,e,k,e,p,t,a,n,i,m,a,l,s,s,u,c,h,a,s,b,i,r,d,s,,,c,a,t,s,a,n,d,d,o,g,s,a,s,t,h,e,i,r,p,e,t,s,.,
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Add
+INFO: "data" element added to list with using iterator at 0 index.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor print_logfile
+INFO: Current list stuation : 	d,a,t,a,F,v,o,c,a,b,l,u,a,r,y,o,r,o,v,e,r,t,h,o,u,s,a,n,d,s,o,f,y,e,a,r,s,,,h,u,m,a,n,s,h,a,v,e,k,e,p,t,a,n,i,m,a,l,s,s,u,c,h,a,s,b,i,r,d,s,,,c,a,t,s,a,n,d,d,o,g,s,a,s,t,h,e,i,r,p,e,t,s,.,
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Add
+INFO: "structures" element added to list with using iterator at 13 index.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor print_logfile
+INFO: Current list stuation : 	d,a,t,a,F,v,o,c,a,b,l,u,a,s,t,r,u,c,t,u,r,e,s,r,y,o,r,o,v,e,r,t,h,o,u,s,a,n,d,s,o,f,y,e,a,r,s,,,h,u,m,a,n,s,h,a,v,e,k,e,p,t,a,n,i,m,a,l,s,s,u,c,h,a,s,b,i,r,d,s,,,c,a,t,s,a,n,d,d,o,g,s,a,s,t,h,e,i,r,p,e,t,s,.,
+Nis 02, 2020 11:22:43 PM q2.Main main
+INFO: Working time : 5470300 ns
+Nis 02, 2020 11:22:43 PM q2.Main main
+INFO: --------------- TEST ADD (WITHOUT ITERATOR) METHODS  ---------------
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Add_without_iter
+INFO: "vocabluary" element added to list without using iterator at 10 index.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor print_logfile
+INFO: Current list stuation : 	F,o,r,o,v,e,r,t,h,o,v,o,c,a,b,l,u,a,r,y,u,s,a,n,d,s,o,f,y,e,a,r,s,,,h,u,m,a,n,s,h,a,v,e,k,e,p,t,a,n,i,m,a,l,s,s,u,c,h,a,s,b,i,r,d,s,,,c,a,t,s,a,n,d,d,o,g,s,a,s,t,h,e,i,r,p,e,t,s,.,
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Add_without_iter
+INFO: "data" element added to list without using iterator at 0 index.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor print_logfile
+INFO: Current list stuation : 	d,a,t,a,F,o,r,o,v,e,r,t,h,o,v,o,c,a,b,l,u,a,r,y,u,s,a,n,d,s,o,f,y,e,a,r,s,,,h,u,m,a,n,s,h,a,v,e,k,e,p,t,a,n,i,m,a,l,s,s,u,c,h,a,s,b,i,r,d,s,,,c,a,t,s,a,n,d,d,o,g,s,a,s,t,h,e,i,r,p,e,t,s,.,
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Add_without_iter
+INFO: "structures" element added to list without using iterator at 13 index.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor print_logfile
+INFO: Current list stuation : 	d,a,t,a,F,o,r,o,v,e,r,t,h,s,t,r,u,c,t,u,r,e,s,o,v,o,c,a,b,l,u,a,r,y,u,s,a,n,d,s,o,f,y,e,a,r,s,,,h,u,m,a,n,s,h,a,v,e,k,e,p,t,a,n,i,m,a,l,s,s,u,c,h,a,s,b,i,r,d,s,,,c,a,t,s,a,n,d,d,o,g,s,a,s,t,h,e,i,r,p,e,t,s,.,
+Nis 02, 2020 11:22:43 PM q2.Main main
+INFO: Working time : 2788000 ns
+Nis 02, 2020 11:22:43 PM q2.Main main
+INFO: --------------- TEST REPLACE (WITH ITERATOR) METHODS  ---------------
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Replace
+INFO: User want to replace 10. element to "replace" with using iterator.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Replace
+INFO: Program replaces 10. element to "replace" with using iterator.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor print_logfile
+INFO: Current list stuation : 	d,a,t,a,F,v,o,c,a,b,r,e,p,l,a,c,e,c,t,u,r,e,s,r,y,o,r,o,v,e,r,t,h,o,u,s,a,n,d,s,o,f,y,e,a,r,s,,,h,u,m,a,n,s,h,a,v,e,k,e,p,t,a,n,i,m,a,l,s,s,u,c,h,a,s,b,i,r,d,s,,,c,a,t,s,a,n,d,d,o,g,s,a,s,t,h,e,i,r,p,e,t,s,.,
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Replace
+INFO: User want to replace 0. element to "some" with using iterator.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Replace
+INFO: Program replaces 0. element to "some" with using iterator.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor print_logfile
+INFO: Current list stuation : 	s,o,m,e,F,v,o,c,a,b,r,e,p,l,a,c,e,c,t,u,r,e,s,r,y,o,r,o,v,e,r,t,h,o,u,s,a,n,d,s,o,f,y,e,a,r,s,,,h,u,m,a,n,s,h,a,v,e,k,e,p,t,a,n,i,m,a,l,s,s,u,c,h,a,s,b,i,r,d,s,,,c,a,t,s,a,n,d,d,o,g,s,a,s,t,h,e,i,r,p,e,t,s,.,
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Replace
+INFO: User want to replace 20. element to "character" with using iterator.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Replace
+INFO: Program replaces 20. element to "character" with using iterator.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor print_logfile
+INFO: Current list stuation : 	s,o,m,e,F,v,o,c,a,b,r,e,p,l,a,c,e,c,t,u,c,h,a,r,a,c,t,e,r,e,r,t,h,o,u,s,a,n,d,s,o,f,y,e,a,r,s,,,h,u,m,a,n,s,h,a,v,e,k,e,p,t,a,n,i,m,a,l,s,s,u,c,h,a,s,b,i,r,d,s,,,c,a,t,s,a,n,d,d,o,g,s,a,s,t,h,e,i,r,p,e,t,s,.,
+Nis 02, 2020 11:22:43 PM q2.Main main
+INFO: Working time : 3181200 ns
+Nis 02, 2020 11:22:43 PM q2.Main main
+INFO: --------------- TEST REPLACE (WITHOUT ITERATOR) METHODS  ---------------
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Replace_without_iter
+INFO: User want to replace 10. element to "replace" without using iterator.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Replace_without_iter
+INFO: Program replaces 10. element to "replace" without using iterator.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor print_logfile
+INFO: Current list stuation : 	d,a,t,a,F,o,r,o,v,e,r,e,p,l,a,c,e,c,t,u,r,e,s,o,v,o,c,a,b,l,u,a,r,y,u,s,a,n,d,s,o,f,y,e,a,r,s,,,h,u,m,a,n,s,h,a,v,e,k,e,p,t,a,n,i,m,a,l,s,s,u,c,h,a,s,b,i,r,d,s,,,c,a,t,s,a,n,d,d,o,g,s,a,s,t,h,e,i,r,p,e,t,s,.,
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Replace_without_iter
+INFO: User want to replace 0. element to "some" without using iterator.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Replace_without_iter
+INFO: Program replaces 0. element to "some" without using iterator.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor print_logfile
+INFO: Current list stuation : 	s,o,m,e,F,o,r,o,v,e,r,e,p,l,a,c,e,c,t,u,r,e,s,o,v,o,c,a,b,l,u,a,r,y,u,s,a,n,d,s,o,f,y,e,a,r,s,,,h,u,m,a,n,s,h,a,v,e,k,e,p,t,a,n,i,m,a,l,s,s,u,c,h,a,s,b,i,r,d,s,,,c,a,t,s,a,n,d,d,o,g,s,a,s,t,h,e,i,r,p,e,t,s,.,
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Replace_without_iter
+INFO: User want to replace 20. element to "character" without using iterator.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor Replace_without_iter
+INFO: Program replaces 20. element to "character" without using iterator.
+Nis 02, 2020 11:22:43 PM q2.SimpleTextEditor print_logfile
+INFO: Current list stuation : 	s,o,m,e,F,o,r,o,v,e,r,e,p,l,a,c,e,c,t,u,c,h,a,r,a,c,t,e,r,l,u,a,r,y,u,s,a,n,d,s,o,f,y,e,a,r,s,,,h,u,m,a,n,s,h,a,v,e,k,e,p,t,a,n,i,m,a,l,s,s,u,c,h,a,s,b,i,r,d,s,,,c,a,t,s,a,n,d,d,o,g,s,a,s,t,h,e,i,r,p,e,t,s,.,
+Nis 02, 2020 11:22:43 PM q2.Main main
+INFO: Working time : 2712700 ns
+Nis 02, 2020 11:22:43 PM q2.Main main
+INFO: Program is end
